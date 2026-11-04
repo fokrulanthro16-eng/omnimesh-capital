@@ -16,6 +16,7 @@
 /.next/
 /out/
 /build
+*.tsbuildinfo
 
 # Temporary recording and intermediate render artifacts
 /temp_recording/
