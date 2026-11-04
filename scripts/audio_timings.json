@@ -1,0 +1,46 @@
+{
+  "voice": "en-GB-RyanNeural",
+  "total_duration": 170.63,
+  "segments": [
+    {
+      "index": 1,
+      "id": "segment_1",
+      "title": "Hook & Problem: The SME Liquidity Crisis",
+      "start_time": 0.0,
+      "duration": 29.95,
+      "end_time": 29.95
+    },
+    {
+      "index": 2,
+      "id": "segment_2",
+      "title": "Cryptographic Merkle Auditability & Monte Carlo Stochastic Runway",
+      "start_time": 30.95,
+      "duration": 38.26,
+      "end_time": 69.21
+    },
+    {
+      "index": 3,
+      "id": "segment_3",
+      "title": "Dual-AI Orchestration: Nebius Llama-3.1-70B & Hugging Face FinBERT",
+      "start_time": 70.21,
+      "duration": 38.11,
+      "end_time": 108.32
+    },
+    {
+      "index": 4,
+      "id": "segment_4",
+      "title": "ZK-Solvency Passport: Groth16 zk-SNARK Attestation",
+      "start_time": 109.32,
+      "duration": 32.64,
+      "end_time": 141.96
+    },
+    {
+      "index": 5,
+      "id": "segment_5",
+      "title": "$5.2T Market Opportunity & Monetization",
+      "start_time": 142.96,
+      "duration": 27.67,
+      "end_time": 170.63
+    }
+  ]
+}
